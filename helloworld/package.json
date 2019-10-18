@@ -2,7 +2,7 @@
 	"name": "helloworld",
 	"description": "Says hello every minute.",
 	"author": "Dave Winer <dave@scripting.com>",
-	"version": "0.4.0",
+	"version": "0.4.1",
 	"scripts": {
 		"start": "node hello.js"
 		},
