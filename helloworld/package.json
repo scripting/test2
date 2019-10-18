@@ -1,0 +1,16 @@
+{
+	"name": "helloworld",
+	"description": "Says hello every minute.",
+	"author": "Dave Winer <dave@scripting.com>",
+	"version": "0.4.0",
+	"scripts": {
+		"start": "node hello.js"
+		},
+	"dependencies" : {
+		"daveutils": "*"
+		}, 
+	"license": "MIT",
+	"engines": {
+		"node": "*"
+		}
+	}
