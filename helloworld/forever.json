@@ -5,5 +5,5 @@
 		"urlRepo": "https://github.com/scripting/test2.git",
 		"repoPath": "helloworld/"
 		},
-	"enabled": false
+	"enabled": true
 	}
