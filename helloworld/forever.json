@@ -1,0 +1,9 @@
+{
+	"script": "hello.js",
+	"description": "Say hello once a minute.",
+	"reload": {
+		"urlRepo": "https://github.com/scripting/test2.git",
+		"repoPath": "helloworld/"
+		},
+	"enabled": false
+	}
