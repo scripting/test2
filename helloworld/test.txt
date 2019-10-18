@@ -1,2 +1,3 @@
-hello this is a test
-For the next sixy seconds
+Hello this is a test.
+For the next sixty seconds.
+This station.
