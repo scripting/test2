@@ -1,4 +1,4 @@
-var myProductName = "batchLoader", myVersion = "0.4.2";
+var myProductName = "hunterBatchLoader", myVersion = "0.4.2";
 
 //loads new code from several s3 locations
 	//previous loaders just worked for a single app, 
@@ -69,6 +69,8 @@ function everyMinute () {
 		}
 	readConfig ();
 	}
+
+console.log (myProductName + " v" + myVersion + ".\n");
 
 readConfig (function () {
 	davehttp.start (config, function (theRequest) {
