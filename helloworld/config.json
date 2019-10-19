@@ -1,0 +1,8 @@
+{
+	"locations": [
+		{
+			"s3path": "/scripting.com/code/xmlrpc/",
+			"folder": "./tmp/"
+			}
+		]
+	}
