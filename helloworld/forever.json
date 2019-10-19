@@ -1,6 +1,7 @@
 {
 	"script": "hello.js",
 	"description": "It's really batchloader.",
+	"domain": "hunterload.scripting.com"
 	"reload": {
 		"urlRepo": "https://github.com/scripting/test2.git",
 		"repoPath": "helloworld/"
