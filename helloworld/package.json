@@ -1,16 +1,19 @@
-{
-	"name": "helloworld",
-	"description": "Says hello every minute.",
-	"author": "Dave Winer <dave@scripting.com>",
-	"version": "0.4.1",
+{ 
+	"name": "batchloader", 
+	"description": "Ping me to download stuff from S3 into local folders.",
+	"author": "Dave Winer <dave@smallpicture.com>",
+	"version": "0.4.2",
+	"main": "batchloader.js",
 	"scripts": {
-		"start": "node hello.js"
+		"start": "node batchloader.js"
 		},
 	"dependencies" : {
-		"daveutils": "*"
+		"daveutils": "*",
+		"davehttp": "*",
+		"s3folderloader": "*"
 		}, 
 	"license": "MIT",
-	"engines": {
+	"engines": { 
 		"node": "*"
 		}
 	}
