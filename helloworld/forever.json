@@ -1,6 +1,6 @@
 {
 	"script": "hello.js",
-	"description": "Say hello once a minute.",
+	"description": "It's really batchloader.",
 	"reload": {
 		"urlRepo": "https://github.com/scripting/test2.git",
 		"repoPath": "helloworld/"
