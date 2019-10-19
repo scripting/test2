@@ -11,7 +11,7 @@ const davehttp = require ("davehttp");
 const fs = require ("fs");  
 
 var config = {
-	port: process.env.PORT,
+	port: process.env.PORT || 1408,
 	flLogToConsole: true,
 	flAllowAccessFromAnywhere: true, //for davehttp
 	locations: [ 
