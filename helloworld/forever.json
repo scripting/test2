@@ -3,8 +3,7 @@
 	"description": "It's really batchloader.",
 	"domain": "hunterload.scripting.com",
 	"reload": {
-		"urlRepo": "https://github.com/scripting/test2.git",
-		"repoPath": "helloworld/"
+		"s3Location": "/scripting.com/code/foreverserver/apps/batchloader/"
 		},
 	"enabled": true
 	}
