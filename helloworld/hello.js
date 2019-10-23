@@ -1,4 +1,4 @@
-const myProductName = "helloworld", myVersion = "0.4.1";    
+const myProductName = "helloworld", myVersion = "0.4.2";    
 
 const utils = require ("daveutils");
 
